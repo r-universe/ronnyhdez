@@ -1,0 +1,26 @@
+[
+  {
+    "package": "gradethis",
+    "url": "https://github.com/rstudio-education/gradethis",
+    "via": ["introR"],
+    "from": "introR"
+  },
+  {
+    "package": "htmltools",
+    "url": "https://github.com/rstudio/htmltools",
+    "via": ["introR", "gradethis", "learnr"],
+    "from": "introR"
+  },
+  {
+    "package": "learnr",
+    "url": "https://github.com/rstudio/learnr",
+    "via": ["introR", "gradethis"],
+    "from": "introR"
+  },
+  {
+    "package": "shinytest",
+    "url": "https://github.com/rstudio/shinytest",
+    "via": ["introR", "gradethis", "learnr"],
+    "from": "introR"
+  }
+]
