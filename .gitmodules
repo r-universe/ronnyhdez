@@ -33,18 +33,8 @@
 	url = https://github.com/rstudio-education/gradethis
 	shallow = true
 	registered = false
-[submodule "htmltools"]
-	path = htmltools
-	url = https://github.com/rstudio/htmltools
-	shallow = true
-	registered = false
 [submodule "learnr"]
 	path = learnr
 	url = https://github.com/rstudio/learnr
-	shallow = true
-	registered = false
-[submodule "shinytest"]
-	path = shinytest
-	url = https://github.com/rstudio/shinytest
 	shallow = true
 	registered = false
