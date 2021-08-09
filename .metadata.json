@@ -1,0 +1,19 @@
+[
+  {
+    "package": "introR"
+  },
+  {
+    "package": "gitear",
+    "oncran": true
+  },
+  {
+    "package": "lacrmr",
+    "oncran": true
+  },
+  {
+    "package": "ixplorer"
+  },
+  {
+    "package": "rTLS"
+  }
+]
