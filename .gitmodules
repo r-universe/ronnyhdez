@@ -3,6 +3,11 @@
 	url = https://github.com/ronnyhdez/universe
 	shallow = true
 	branch = HEAD
+[submodule "introR"]
+	path = introR
+	url = https://github.com/ixpantia/introR
+	shallow = true
+	registered = true
 [submodule "gitear"]
 	path = gitear
 	url = https://github.com/ixpantia/gitear
@@ -11,6 +16,11 @@
 [submodule "lacrmr"]
 	path = lacrmr
 	url = https://github.com/ixpantia/lacrmr
+	shallow = true
+	registered = true
+[submodule "ixplorer"]
+	path = ixplorer
+	url = https://github.com/ixpantia/ixplorer
 	shallow = true
 	registered = true
 [submodule "rTLS"]
