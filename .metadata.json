@@ -15,6 +15,6 @@
   },
   {
     "package": "rTLS",
-    "oncran": false
+    "oncran": true
   }
 ]
