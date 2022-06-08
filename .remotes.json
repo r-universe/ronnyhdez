@@ -1,11 +1,5 @@
 [
   {
-    "package": "gitear",
-    "url": "https://github.com/ixpantia/gitear",
-    "via": ["ixplorer"],
-    "from": "ixplorer"
-  },
-  {
     "package": "gradethis",
     "url": "https://github.com/rstudio-education/gradethis",
     "via": ["introR"],
