@@ -11,7 +11,8 @@
     "oncran": true
   },
   {
-    "package": "ixplorer"
+    "package": "ixplorer",
+    "oncran": true
   },
   {
     "package": "rTLS",
