@@ -30,7 +30,7 @@
 	registered = true
 [submodule "gradethis"]
 	path = gradethis
-	url = https://github.com/rstudio-education/gradethis
+	url = https://github.com/rstudio/gradethis
 	shallow = true
 	registered = false
 [submodule "learnr"]
