@@ -15,7 +15,6 @@
     "oncran": true
   },
   {
-    "package": "rTLS",
-    "oncran": true
+    "package": "rTLS"
   }
 ]
