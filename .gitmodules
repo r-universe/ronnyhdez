@@ -1,40 +1,27 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/ronnyhdez/universe
-	shallow = true
 	branch = HEAD
 [submodule "introR"]
 	path = introR
 	url = https://github.com/ixpantia/introR
-	shallow = true
-	registered = true
 [submodule "gitear"]
 	path = gitear
 	url = https://github.com/ixpantia/gitear
-	shallow = true
-	registered = true
 [submodule "lacrmr"]
 	path = lacrmr
 	url = https://github.com/ixpantia/lacrmr
-	shallow = true
-	registered = true
 [submodule "ixplorer"]
 	path = ixplorer
 	url = https://github.com/ixpantia/ixplorer
-	shallow = true
-	registered = true
 [submodule "rTLS"]
 	path = rTLS
 	url = https://github.com/Antguz/rTLS
-	shallow = true
-	registered = true
 [submodule "gradethis"]
 	path = gradethis
 	url = https://github.com/rstudio/gradethis
-	shallow = true
 	registered = false
 [submodule "learnr"]
 	path = learnr
 	url = https://github.com/rstudio/learnr
-	shallow = true
 	registered = false
