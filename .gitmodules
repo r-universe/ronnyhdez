@@ -2,26 +2,26 @@
 	path = .registry
 	url = https://github.com/ronnyhdez/universe
 	branch = HEAD
-[submodule "introR"]
-	path = introR
-	url = https://github.com/ixpantia/introR
 [submodule "gitear"]
 	path = gitear
 	url = https://github.com/ixpantia/gitear
-[submodule "lacrmr"]
-	path = lacrmr
-	url = https://github.com/ixpantia/lacrmr
-[submodule "ixplorer"]
-	path = ixplorer
-	url = https://github.com/ixpantia/ixplorer
-[submodule "rTLS"]
-	path = rTLS
-	url = https://github.com/Antguz/rTLS
 [submodule "gradethis"]
 	path = gradethis
 	url = https://github.com/rstudio/gradethis
 	registered = false
+[submodule "introR"]
+	path = introR
+	url = https://github.com/ixpantia/introR
+[submodule "ixplorer"]
+	path = ixplorer
+	url = https://github.com/ixpantia/ixplorer
+[submodule "lacrmr"]
+	path = lacrmr
+	url = https://github.com/ixpantia/lacrmr
 [submodule "learnr"]
 	path = learnr
 	url = https://github.com/rstudio/learnr
 	registered = false
+[submodule "rTLS"]
+	path = rTLS
+	url = https://github.com/Antguz/rTLS
