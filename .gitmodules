@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/ronnyhdez/universe
 	branch = HEAD
+[submodule "ggcheck"]
+	path = ggcheck
+	url = https://github.com/rstudio/ggcheck
+	registered = false
 [submodule "gitear"]
 	path = gitear
 	url = https://github.com/ixpantia/gitear
