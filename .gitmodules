@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/ronnyhdez/universe
+	url = https://github.com/ronnyhdez/ronnyhdez.r-universe.dev
 	branch = HEAD
 [submodule "ggcheck"]
 	path = ggcheck
