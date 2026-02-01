@@ -2,17 +2,9 @@
 	path = .registry
 	url = https://github.com/ronnyhdez/ronnyhdez.r-universe.dev
 	branch = HEAD
-[submodule "ggcheck"]
-	path = ggcheck
-	url = https://github.com/rstudio/ggcheck
-	registered = false
 [submodule "gitear"]
 	path = gitear
 	url = https://github.com/ixpantia/gitear
-[submodule "gradethis"]
-	path = gradethis
-	url = https://github.com/rstudio/gradethis
-	registered = false
 [submodule "introR"]
 	path = introR
 	url = https://github.com/ixpantia/introR
@@ -22,10 +14,6 @@
 [submodule "lacrmr"]
 	path = lacrmr
 	url = https://github.com/ixpantia/lacrmr
-[submodule "learnr"]
-	path = learnr
-	url = https://github.com/rstudio/learnr
-	registered = false
 [submodule "rTLS"]
 	path = rTLS
 	url = https://github.com/Antguz/rTLS
